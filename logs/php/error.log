@@ -1,0 +1,28 @@
+[28-Jul-2023 18:38:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "wp" in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/front-page.php:9
+Stack trace:
+#0 /Users/yifeifang/Local Sites/testblog/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yifeifang/Local Sites/testblog/app/public/wp-blog-header.php(19): require_once('/Users/yifeifan...')
+#2 /Users/yifeifang/Local Sites/testblog/app/public/index.php(17): require('/Users/yifeifan...')
+#3 {main}
+  thrown in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/front-page.php on line 9
+[28-Jul-2023 18:48:00 UTC] PHP Warning:  Undefined variable $version in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/functions.php on line 5
+[28-Jul-2023 18:49:07 UTC] PHP Warning:  Undefined variable $version in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/functions.php on line 5
+[28-Jul-2023 19:35:19 UTC] PHP Parse error:  syntax error, unexpected token "function" in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/functions.php on line 19
+[28-Jul-2023 19:35:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/yifeifang/Local Sites/testblog/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[28-Jul-2023 19:35:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/yifeifang/Local Sites/testblog/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[28-Jul-2023 19:36:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actions() in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/functions.php:17
+Stack trace:
+#0 /Users/yifeifang/Local Sites/testblog/app/public/wp-settings.php(591): include()
+#1 /Users/yifeifang/Local Sites/testblog/app/public/wp-config.php(93): require_once('/Users/yifeifan...')
+#2 /Users/yifeifang/Local Sites/testblog/app/public/wp-load.php(50): require_once('/Users/yifeifan...')
+#3 /Users/yifeifang/Local Sites/testblog/app/public/wp-admin/admin.php(34): require_once('/Users/yifeifan...')
+#4 /Users/yifeifang/Local Sites/testblog/app/public/wp-admin/themes.php(10): require_once('/Users/yifeifan...')
+#5 {main}
+  thrown in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/functions.php on line 17
+[28-Jul-2023 19:46:33 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/header.php on line 30
+[28-Jul-2023 20:07:07 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/functions.php on line 12
+[28-Jul-2023 20:26:40 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/yifeifang/Local Sites/testblog/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Jul-2023 20:54:13 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/yifeifang/Local Sites/testblog/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Jul-2023 21:05:33 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/yifeifang/Local Sites/testblog/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Jul-2023 22:57:46 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/yifeifang/Local Sites/testblog/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Jul-2023 15:35:18 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/yifeifang/Local Sites/testblog/app/public/wp-content/themes/chungustheme/template-parts/content-category.php on line 3
