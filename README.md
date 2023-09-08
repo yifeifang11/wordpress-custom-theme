@@ -4,6 +4,6 @@ Thanks for checking out this theme. This is a basic WordPress theme developed fr
 
 For a static demo, please see https://fantastic-pothos-8984a8.netlify.app
 
-For the Figma design, please see https://www.figma.com/file/QBvUeH4YkQBzF9b4zLltEP/Untitled?type=design&node-id=0%3A1&mode=design&t=JHsd4m2d7FQgDIhV-1
+For the Figma design, please see https://www.figma.com/file/QBvUeH4YkQBzF9b4zLltEP/Wordpress-theme?type=design&node-id=0%3A1&mode=design&t=JHsd4m2d7FQgDIhV-1
 
 Otherwise, to download the theme for WordPress, please import all files as a theme.
